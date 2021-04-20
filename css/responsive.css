@@ -1,0 +1,273 @@
+@media (max-width: 1330px) {
+    .container {
+        padding: 0 15px;
+    }
+}
+
+@media (max-width: 875px) {
+    .navigation {
+        display: none;
+    }
+    .menu-btn {
+        display: block;
+        margin-top: 40px;
+    }
+}
+
+@media (max-width: 1330px) {
+    .wrapepr {
+        width: 300px;
+    }
+}
+
+@media (max-width: 500px) {
+    .image-text1 {
+        font-size: 20px;
+    }
+    .image-text {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 1308px) {
+    .img {
+        width: 350px;
+    }
+}
+
+@media (max-width: 500px) {
+    .name {
+        font-size: 30px;
+        width: 200px;
+    }
+}
+
+@media (max-width: 370px) {
+    .img {
+        width: 200px;
+    }
+}
+
+@media (max-width: 1240px) {
+    .logoimg {
+        display: none;
+    }
+}
+
+@media (max-width: 950px) {
+    .image-text1 {
+        font-size: 50px;
+    }
+    .image-text {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 653px) {
+    .image-text1 {
+        font-size: 30px;
+    }
+    .image-text {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 320px) {
+    .sec2article {
+        font-size: 15px;
+        width: 150px;
+    }
+    .bookboximg,
+    .boxx1 {
+        width: 100px;
+    }
+}
+
+@media (max-width: 1380px) {
+    .section4 {
+        flex-wrap: wrap;
+    }
+    .restaurant {
+        flex-wrap: wrap;
+    }
+    .resback {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 719px) {
+    .resback,
+    .resimg {
+        width: 400px;
+        height: 400px;
+    }
+    .section4 {
+        width: auto;
+    }
+    .ressp,
+    .ressp1,
+    .ressp2 {
+        width: 200px;
+    }
+}
+
+@media (max-width: 420px) {
+    .resback,
+    .resimg {
+        width: 200px;
+        height: 200px;
+    }
+    .dvd {
+        width: 200px;
+        height: 25px;
+    }
+    .kno {
+        margin-left: 0;
+        margin-top: 20px;
+    }
+    .divslide,
+    .divslide1 {
+        margin-top: 30px;
+    }
+}
+
+@media (max-width: 553px) {
+    .copyright,
+    .fa-google-plus,
+    .fa-twitter {
+        display: none;
+    }
+}
+
+@media (max-width: 766px) {
+    .thpara {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 750px) {
+    .disturb {
+        height: 400px;
+    }
+}
+
+@media (max-width: 1068px) {
+    .containeri {
+        flex-wrap: wrap;
+    }
+    .womlogo {
+        display: none;
+    }
+}
+
+@media (max-width: 848px) {
+    .map {
+        display: none;
+    }
+    .contact-wraper {
+        margin-left: 100px;
+    }
+}
+
+@media (max-width: 675px) {
+    .line {
+        width: 80px;
+    }
+}
+
+@media (max-width: 445px) {
+    .line {
+        display: none;
+    }
+}
+
+@media (max-width: 617px) {
+    #content,
+    #content1 {
+        width: 150px;
+    }
+    .contp,
+    .contp1,
+    .contp2 {
+        font-size: 10px;
+        width: 150px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 919px) {
+    .abouthost,
+    .thteqsti,
+    .secp2,
+    .sextext,
+    .secimg,
+    .secfoto,
+    .thimg {
+        width: 250px;
+        flex-wrap: wrap;
+    }
+    .sectext,
+    .hosted {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 790px) {
+    .abouthost,
+    .secteqsti,
+    .thteqsti,
+    .secp1,
+    .secp2,
+    .sextext,
+    .secimg,
+    .secfoto,
+    .thimg {
+        width: 150px;
+    }
+    .sectext,
+    .hosted {
+        font-size: 15px;
+    }
+    .secpara {
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 521px) {
+    .secteqsti,
+    .secp1,
+    .secp2,
+    .sectext,
+    .hosted {
+        font-size: 10px;
+        width: 200px;
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 920px) {
+    .bookbox {
+        margin-top: 30px;
+    }
+    .bookslide {
+        width: 200px;
+        margin: 0 auto;
+        margin-bottom: 150px;
+    }
+}
+
+@media (max-width: 741px) {
+    .slidesat,
+    .slidetext,
+    .slidetext2,
+    .price {
+        width: 200px;
+    }
+    .divslide,
+    .divslide1 {
+        border: none;
+    }
+    .slideimg {
+        display: none;
+    }
+}
